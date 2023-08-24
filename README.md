@@ -1,6 +1,6 @@
 # Socket-Based Tic-Tac-Toe Game
 
-![Tic-Tac-Toe](./image.jpg)
+![Tic-Tac-Toe](https://github.com/MohammadmahdiAhmadi/SocketBased-TicTacToe/blob/main/image.jpg)
 
 This project implements a multiplayer Tic-Tac-Toe game using Python's sockets and threading. The game consists of three main components: `server.py`, `player.py`, and `tictactoe.py`.
 
